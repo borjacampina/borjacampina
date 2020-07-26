@@ -1,5 +1,7 @@
-<a href="https://twitter.com/borjacampina"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter" alt="Twitter"/></a>
-<a href="https://www.linkedin.com/in/borjacampina"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"/></a>
+<a href="https://twitter.com/borjacampina"><img
+src="https://img.shields.io/badge/@borjacampina--_.svg?style=social&logo=twitter" alt="Twitter"/></a>
+<a href="https://www.linkedin.com/in/borjacampina"><img
+src="https://img.shields.io/badge/borjacampina--_.svg?style=social&logo=linkedin" alt="LinkedIn"/></a>
 <a href="https://github.com/borjacampina"><img src="https://img.shields.io/badge/Github--_.svg?style=social&logo=github" alt="Github"/></a>
 
 <!--
