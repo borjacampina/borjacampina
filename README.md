@@ -2,8 +2,6 @@
 src="https://img.shields.io/badge/@borjacampina--_.svg?style=social&logo=twitter" alt="Twitter"/></a>
 <a href="https://www.linkedin.com/in/borjacampina"><img
 src="https://img.shields.io/badge/borjacampina--_.svg?style=social&logo=linkedin" alt="LinkedIn"/></a>
-<a href="https://github.com/borjacampina"><img
-src="https://img.shields.io/badge/borjacampina--_.svg?style=social&logo=github" alt="Github"/></a>
 
 <!--
 **borjacampina/borjacampina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
